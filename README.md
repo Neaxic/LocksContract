@@ -1,0 +1,2 @@
+# LocksContract
+ A ETH contract
